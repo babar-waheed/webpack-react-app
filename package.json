@@ -22,12 +22,14 @@
     "redux-thunk": "^2.1.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
     "babel-core": "^6.17.0",
     "babel-loader": "^6.2.0",
     "babel-preset-env": "^1.1.4",
-    "babel-preset-react": "^6.16.0",
+    "babel-preset-react": "^6.24.1",
     "css-loader": "^0.26.1",
     "style-loader": "^0.13.1",
-    "webpack": "2.2.0-rc.0"
+    "webpack": "^2.7.0"
   }
 }
