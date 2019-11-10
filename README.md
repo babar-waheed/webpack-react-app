@@ -2,15 +2,15 @@ Using Webpack in React APP...
 
 Commits
 
-npm update
-code splitting and optimisation
-HTML plugin to add scripts automatically, Use of [chunkhash] with names
-rimraf delete folder & npm script
-Webpack Dev Server
-Code splitting React
-deploy via surge …
-Webpack with Node.js …
-Production check = NODE_EVN=production node server.js
+npm update<br/>
+code splitting and optimisation<br/>
+HTML plugin to add scripts automatically, Use of [chunkhash] with names<br/>
+rimraf delete folder & npm script<br/>
+Webpack Dev Server<br/>
+Code splitting React<br/>
+deploy via surge<br/>
+Webpack with Node.js<br/>
+Production check = NODE_EVN=production node server.js<br/>
  
 
  
